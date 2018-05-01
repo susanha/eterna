@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800');
+body{
+	font-family: 'Open Sans', sans-serif;
+	color:#333;
+	font-size: 14px;
+}
+#sec-rs{
+	background-color: #555;
+	color:#fff;
+	padding: 10px 0px;
+}
+#sec-rs .fab{
+	color:#fff;
+	
+}
+#sec-rs .fab:hover{
+	 color:#333333;
+	
+}
+#sec-gr{
+	 background-image:url(../img/bg-hero.jpg)
+	
+}
+.nara{
+color:#E96A57;	
+	
+}
+.btn-primary{
+background-color:#E96A57;	
+	
+}
+footer{
+background-color:#555;	
+	padding: 20px 0px;
+	margin-top: 10px;
+
+	
+}
+footer h2 {
+color:#FFFFFF;
+
+	
+}
+footer ul {
+color:#FFFFFF;
+
+	
+}
+.btn-warning{
+background-color:#85A335;	
+	
+}
+#sec-cuadros{
+	padding: 10px 0px;
+	
+}
+.circulo {
+     width: 60px;
+     height: 60px;
+	border-radius: 100%;
+     background: #E96A57;
+	line-height: 60px;
+	text-align: center;
+	color: #F9F3F3;
+}
+#sec-text{
+	padding: 10px 0px;
+	
+}
+#sec-para{
+	padding: 10px 0px;
+	
+}
+#sec-do{
+	padding: 10px 0px;
+	background-color:#FFFDFD;	
+
+	
+}
+.cuadrado {
+   
+   background:#F9F3F3;
+	padding:10px 0px;
+		
+}
+.circuloaz{
+   width: 70px;
+     height: 70px;
+     border-radius: 50%;
+   background:blue;
+	padding:10px 0px;
+	line-height: 70px;
+	text-align: center;
+	
+	
+}
+.circuloana{
+   width: 70px;
+     height: 70px;
+     border-radius: 50%;
+   background:#E96A57;
+	padding:10px 0px;
+	line-height: 70px;
+	text-align: center;
+	
+	
+}
+.circulover{
+   width: 70px;
+     height: 70px;
+     border-radius: 50%;
+   background:#85A335;
+	padding:10px 0px;
+	line-height: 70px;
+	text-align: center;
+	
+	
+}
+.circuloama{
+   width: 70px;
+     height: 70px;
+     border-radius: 50%;
+   background:yellow;
+	padding:10px 0px;
+	line-height: 70px;
+	text-align: center;
+	
+	
+}
+.fas{
+   
+   color:#F9F3F3;
+	
+} 
